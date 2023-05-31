@@ -1,8 +1,39 @@
-body {width: 70%;
-    margin-left: auto;
-    margin-right: auto;}
-h1,h2,h3 { font-family:  Helvetica, sans-serif;
-    margin-top: 1.7em;
+body {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1,
+h2,
+h3 {
+  font-family: Helvetica, sans-serif;
+  margin-top: 1.7em;
+}
+h1 {
+  font-size: 32px;
+}
+table {
+  margin-bottom: 20px;
+  border: 1px solid #dddddd;
+  border-collapse: collapse;
+}
+th {
+  border: 5px solid #dddddd;
+  outline: 5px #888;
+  padding: 5px;
+}
+caption {
+  border: 5px solid #dddddd;
+  outline: 5px #888;
+  font-family: Helvetica, sans-serif;
+}
+figcaption { font-style: italic;
+    font-weight: bold;
+}
+.image { float: right;
+    padding: 15px;
+
     
 }
-h1{font-size: 32px;}    
+img{    width: 200px;
+    }
