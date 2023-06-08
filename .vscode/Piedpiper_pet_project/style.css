@@ -1,45 +1,63 @@
 .container {
-  
-width: 1100px;
-max-width: o auto;
-margin-left: 55px ;
-margin-right: 54px;
-
+  width: 1100px;
+  max-width: o auto;
+  margin-left: 55px;
+  margin-right: 54px;
 }
 
 .header {
-position: relative;
-width: 1219px;
-height: 84px;
+  position: relative;
+  width: 1219px;
+  height: 84px;
 
-
-background: #007765;
+  background: #007765;
 }
 .logo {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  
 }
-.menu{
+.menu {
   padding-top: 29px;
   margin-left: auto;
   text-align: right;
 }
 .menu-item {
   display: inline-block;
-  font-family: 'Roboto',sans-serif;
-   
+  font-family: "Roboto", sans-serif;
+
   font-weight: 300;
   font-size: 24px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .divider {
   display: inline-block;
-  font-family: 'Roboto',sans-serif;
-   
+  font-family: "Roboto", sans-serif;
+
   font-weight: 300;
   font-size: 24px;
   margin: 0 8px;
-  color: #FFFFFF;
+  color: #ffffff;
+}
+.background {
+  background-image: url(jpg/image\ \(1\).png);
+  width : 1219px;
+  height : 403px;
+}
+.title {
+  font-family: "Roboto", sans-serif;
+  padding-top: 160px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 72px;
+  line-height: 84px;
+  text-align: center;
+
+  color: #ffffff;
+}
+.block{
+  width: 1219px;
+  height: 719px;
+  background: #EEEEEE;
+
 }
