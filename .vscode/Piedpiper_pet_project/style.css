@@ -41,8 +41,8 @@
 }
 .background {
   background-image: url(jpg/image\ \(1\).png);
-  width : 1219px;
-  height : 403px;
+  width: 1219px;
+  height: 403px;
 }
 .title {
   font-family: "Roboto", sans-serif;
@@ -55,36 +55,54 @@
 
   color: #ffffff;
 }
-.block{
+.block {
   width: 1219px;
   height: 719px;
-  background: #EEEEEE;
+  background: #eeeeee;
 }
-.title1{
-padding-top: 48px;
-font-family: 'Roboto',sans-serif;
-font-style: normal;
-font-weight: 300;
-font-size: 64px;
-line-height: 75px;
+.title1 {
+  padding-top: 48px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 64px;
+  line-height: 75px;
 
+  text-align: center;
 
-text-align: center;
-
-color: #007765;
+  color: #007765;
 }
 .discription {
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 200;
-font-size: 32px;
-line-height: 38px;
-padding-top: 16px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 32px;
+  line-height: 38px;
+  padding-top: 16px;
 
-
-color: #000000;
+  color: #000000;
 }
 
 .fat {
   font-weight: 600;
+}
+.background2 {
+  background-image: url(jpg/image\ \(2\).png);
+  width: 1219px;
+  height: 483px;
+}
+
+.title2 {
+  padding-top: 128px;
+  padding-bottom: 127px;
+  padding-left: 163px;
+  padding-right: 163px;
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+
+  color: #ffffff;
 }
