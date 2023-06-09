@@ -1,13 +1,13 @@
 .container {
-  width: 1100px;
-  max-width: o auto;
-  margin-left: 55px;
-  margin-right: 54px;
+  width: 1219px;
+  margin: 0 auto;
+  padding-left: 55px;
+  padding-right: 54px;
 }
 
 .header {
   position: fixed;
-  width: 1219px;
+  width: 100%;
   height: 84px;
 
   background: #007765;
@@ -41,7 +41,7 @@
 }
 .background {
   background-image: url(jpg/image\ \(1\).png);
-  width: 1219px;
+  width: 100%;
   height: 403px;
 }
 .title {
@@ -56,7 +56,7 @@
   color: #ffffff;
 }
 .block {
-  width: 1219px;
+  width: 100%;
   height: 719px;
   background: #eeeeee;
 }
@@ -88,7 +88,7 @@
 }
 .background2 {
   background-image: url(jpg/image\ \(2\).png);
-  width: 1219px;
+  width: 100%;
   height: 483px;
 }
 
@@ -107,51 +107,43 @@
   color: #ffffff;
 }
 .block2 {
-  width: 1219px;
+  width: 100%;
   height: 604px;
-  background: #FFFFFF;
+  background: #ffffff;
 }
 
 .logo2 {
- 
   padding-top: 16px;
   float: left;
-  
-  
 }
- .discription2 {
-font-family: 'Roboto',sans-serif;
-font-style: normal;
-padding-top: 16px;
-padding-left: 163px;
-padding-right: 16px;
-font-weight: 100;
-font-size: 32px;
-line-height: 38px;
+.discription2 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  padding-top: 16px;
+  padding-left: 163px;
+  padding-right: 16px;
+  font-weight: 100;
+  font-size: 32px;
+  line-height: 38px;
 
-color: #000000;
-
-
-
+  color: #000000;
 }
 .discription3 {
-  font-family: 'Roboto',sans-serif;
-font-style: normal;
-padding-top: 40px;
-padding-bottom: 91px;
-font-weight: 100;
-font-size: 32px;
-line-height: 38px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  padding-top: 40px;
+  padding-bottom: 91px;
+  font-weight: 100;
+  font-size: 32px;
+  line-height: 38px;
 
-color: #000000;
-
+  color: #000000;
 }
 .block3 {
-  width: 1219px;
-height: 845px;
+  width: 100%;
+  height: 845px;
 
-
-background: #EEEEEE;
+  background: #eeeeee;
 }
 
 .member {
@@ -169,49 +161,43 @@ background: #EEEEEE;
   margin: 0 auto;
 }
 figcaption {
-font-family: 'Roboto',sans-serif;
-font-style: normal;
-padding-top: 12px;
-font-weight: 200;
-font-size: 24px;
-line-height: 28px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  padding-top: 12px;
+  font-weight: 200;
+  font-size: 24px;
+  line-height: 28px;
 
-
-
-color: #007765;
+  color: #007765;
 }
 
 .information {
-font-family: 'Roboto',sans-serif;
-font-style: italic;
-font-weight: 100;
-font-size: 18px;
-line-height: 21px;
-text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-weight: 100;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
 }
 
 .block4 {
+  width: 100%;
+  height: 176px;
 
-width: 1219px;
-height: 176px;
-
-background: #333333;
+  background: #333333;
 }
 
 .description {
-font-family: 'Roboto', sans-serif;
-padding-top: 48px;
-padding-bottom: 64px;
-padding-left: 340px;
-padding-right: 339px;
-font-style: normal;
-font-weight: 10px;
-font-size: 18px;
-line-height: 21px;
-text-align: center;
+  font-family: "Roboto", sans-serif;
+  padding-top: 48px;
+  padding-bottom: 64px;
+  padding-left: 340px;
+  padding-right: 339px;
+  font-style: normal;
+  font-weight: 10px;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
 
-
-color: #FFFFFF;
-
-
+  color: #ffffff;
 }
