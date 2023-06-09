@@ -106,3 +106,42 @@
 
   color: #ffffff;
 }
+.block2 {
+  width: 1219px;
+  height: 604px;
+  background: #FFFFFF;
+}
+
+.logo2 {
+ 
+  padding-top: 16px;
+  float: left;
+  
+  
+}
+ .discription2 {
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+padding-top: 16px;
+padding-left: 163px;
+padding-right: 16px;
+font-weight: 100;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+
+
+}
+.discription3 {
+  font-family: 'Roboto',sans-serif;
+font-style: normal;
+padding-top: 40px;
+font-weight: 100;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+}
