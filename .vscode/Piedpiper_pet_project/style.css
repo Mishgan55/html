@@ -151,12 +151,17 @@
   background: #eeeeee;
 }
 
-.member {
+ .member {
   padding-top: 35px;
-  display: inline-block;
-  width: 33%;
+  
+  
   height: 283px;
   text-align: center;
+} 
+
+.team{
+  display:flex;
+  justify-content: space-around;
 }
 
 .photo {
