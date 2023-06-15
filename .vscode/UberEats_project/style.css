@@ -1,0 +1,31 @@
+.container  {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding-left: 81px;
+    padding-right: 87px;
+    display: flex;
+    Justify-content: space-between;
+    align-items: center;
+    height: 72px;
+
+}
+.header {
+    width: 100%;
+    height: 72px;
+    
+    
+
+}
+
+.wrapper{
+display: flex;
+  justify-content: flex-end;
+  gap:16px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    width: 78px;
+    height: 40px;
+}
