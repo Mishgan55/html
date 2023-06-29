@@ -21,6 +21,9 @@
   background: #ffffff;
   box-shadow: 0px 0px 16px rgba(38, 38, 38, 0.16);
 }
+.basket {
+  margin: 0px 15px 0px 15px;
+}
 
 .wrapper {
   display: flex;
@@ -57,7 +60,7 @@ form {
 }
 input {
   width: 100%;
-  height: 48px;
+  height: 25px;
   display: flex;
   align-items: flex-end;
   border-top: hidden;
@@ -123,7 +126,7 @@ h1 {
   color: #626262;
   font-weight: 300;
   font-size: 14px;
-  font-family: Roboto, sans-serif;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
   line-height: 21px;
 }
 
@@ -132,7 +135,7 @@ h1 {
   color: #1d1d1d;
   font-size: 13px;
   font-weight: 500;
-  font-family: Roboto, sans-serif;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
   line-height: 21px;
 }
 .block3 {
@@ -158,8 +161,8 @@ h1 {
 }
 .desc2 > p {
   color: #fff;
-  font-size: 13px;
-  font-family: Roboto, sans-serif;
+  font-size: 15px;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
@@ -186,4 +189,25 @@ h1 {
   justify-content: center;
   padding: 40px 0px 40px 0px;
   gap: 40px;
+}
+.filling4 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 40px 0px 40px 0px;
+}
+.filling4 > p {
+  color: #fff;
+  font-size: 13px;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 0px;
+  padding: 0px 5px 23px 0px;
+}
+.btn {
+  position: fixed;
+  bottom: 2%;
+  right: 2%;
 }
