@@ -45,6 +45,7 @@
   height: 100%;
 }
 .block1 {
+  margin-top: 56px;
   width: 100%;
   height: 100%;
   padding-bottom: 56px;
@@ -134,13 +135,12 @@ h1 {
   font-family: Roboto, sans-serif;
   line-height: 21px;
 }
-.block3{
-  
+.block3 {
   width: 100%;
   height: 100%;
   background: #262626;
 }
-.subblock{
+.subblock {
   display: flex;
   flex-direction: column;
 }
@@ -148,5 +148,42 @@ h1 {
   display: flex;
   justify-content: start;
   height: 116px;
-
+}
+.filling2 {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  flex-wrap: wrap;
+  margin-bottom: 48px;
+}
+.desc2 > p {
+  color: #fff;
+  font-size: 13px;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 0px;
+  padding: 0px 5px 23px 0px;
+}
+.UberEats {
+  color: #fff;
+  font-size: 16px;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 33px;
+  padding-bottom: 17px;
+  margin: 0px;
+}
+.socials {
+  display: flex;
+  gap: 4px;
+}
+.filling3 {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0px 40px 0px;
+  gap: 40px;
 }
